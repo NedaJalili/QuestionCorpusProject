@@ -1,0 +1,22 @@
+[
+    {
+        "document_1": 1,
+        "document_2": 2,
+        "similarity_score": 0.19600737618804467
+    },
+    {
+        "document_1": 1,
+        "document_3": 3,
+        "similarity_score": 0.27430913510467225
+    },
+    {
+        "document_1": 1,
+        "document_4": 4,
+        "similarity_score": 0.34984229764653135
+    },
+    {
+        "document_1": 1,
+        "document_5": 5,
+        "similarity_score": 0.17936784165850964
+    }
+]
